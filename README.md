@@ -46,7 +46,7 @@
 ### 🤝📫 &nbsp;Let's connect
 
 <div align="center">
-  <a href="mailto:u6611706@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-u6611706@au.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:zinmemethet3181mdy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-zinmemethet3181mdy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
   
 </div>
