@@ -37,17 +37,16 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/SantiagoPujana">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SantiagoPujana&show_icons=true&theme=algolia&include_all_commits=true"/>  
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SantiagoPujana&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/yimmz01">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yimmz01&show_icons=true&theme=algolia&include_all_commits=true"/>  
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yimmz01&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </div>
 
 ### 🤝📫 &nbsp;Let's connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/santiago-pujana-polanco-a7a014212"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santiago%20Pujana%20Polanco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:santiagopujana@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-santiagopujana@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:u6611706@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-u6611706@au.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
   
 </div>
